@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects using Rails, javascript, html, css, and Bootstrap**
   
-- 🌱 I’m currently learning ** REST APIs and System Design**
+- 🌱 I’m currently learning **REST APIs, AWS and Heroku**
   
 - 👯 I’m looking to collaborate on **Open-source full-stack applications**
   
@@ -15,7 +15,7 @@
   
 - 📫 How to reach me: **rajat.bansal@backspacce.com**
   
-- 🧑‍💼 Available for freelance work on [Upwork](https://www.upwork.com/freelancers/~019335d04c1b303788)
+- 🧑‍💼 Available for freelance work on [Upwork](https://www.upwork.com/freelancers/~01fb0835cba23108a5)
   
 - ⚡ Fun fact: I design Dashboard using Power BI before I code it ✨
 
@@ -31,9 +31,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
 ### Dev Tools & Deployment
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=gitHub)
 
 
 
@@ -41,7 +39,7 @@
 ## 🗣 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajat.bansal@backspacce.com)
-[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~019335d04c1b303788)
+[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01fb0835cba23108a5)
 
 ---
 
